@@ -15,7 +15,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  WeatherModel weather;
+  //WeatherModel weatherData;
 
   @override
   Widget build(BuildContext context) {
